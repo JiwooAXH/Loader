@@ -1,5 +1,5 @@
 if game.PlaceId == 72992062125248 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/JiwooAXH/hunters/main/loader"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JiwooAXH/hunters/main/loader"))() -- Hunters
 else
     warn("This script only works in the Hunters game.")
 end
